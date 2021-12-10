@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import YaziListesi from "./components/YaziListesi";
 import YaziDetayi from "./components/YaziDetayi";
 
+//app.js
 function App() {
   return (
     <Router>
